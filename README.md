@@ -8,6 +8,7 @@
 - https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms
 - https://www.intoai.pub/p/build-and-train-an-llm-from-scratch
 - https://www.intoai.pub/p/build-a-decoder-only-transformer
+- https://medium.com/data-science/implementing-lora-from-scratch-20f838b046f1
 - https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch
 - https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up
 
