@@ -112,3 +112,6 @@
 
 Useful resources -
 - [Interview Questions - Senior LLM_MLLM Research Engineer.pdf](https://github.com/user-attachments/files/28857004/Interview.Questions.-.Senior.LLM_MLLM.Research.Engineer.pdf)
+- https://github.com/rasbt/LLMs-from-scratch
+- https://github.com/rasbt/reasoning-from-scratch/tree/main
+- https://devopslearning.medium.com/i-built-qwen3-from-scratch-and-heres-what-i-learned-theory-0480b3171412
