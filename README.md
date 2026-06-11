@@ -108,3 +108,7 @@
 | 5 — Inference speed | KV cache | 10 |
 | 6 — Fine-tuning | LoRA, DoRA | 11–12 |
 | 7 — Advanced architectures | MoE, TRM | 13–14 |
+
+
+Useful resources -
+- [Interview Questions - Senior LLM_MLLM Research Engineer.pdf](https://github.com/user-attachments/files/28857004/Interview.Questions.-.Senior.LLM_MLLM.Research.Engineer.pdf)
